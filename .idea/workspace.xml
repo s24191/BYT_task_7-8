@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70e3e115-67c0-4c48-9448-7fc055fb8317" name="Changes" comment="finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_Money/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Money/Money.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2a2OrkXJYGsIPoo1dfjrj1jziBZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AccountTest.executor": "Run",
+    "JUnit.AccountTest.testAddRemoveTimedPayment.executor": "Run",
+    "JUnit.AccountTest.testAddWithdraw.executor": "Run",
+    "JUnit.AccountTest.testGetBalance.executor": "Run",
+    "JUnit.AccountTest.testTimedPayment.executor": "Run",
+    "JUnit.BankTest.testDeposit.executor": "Run",
+    "JUnit.BankTest.testGetBalance.executor": "Run",
+    "JUnit.BankTest.testGetCurrency.executor": "Run",
+    "JUnit.BankTest.testGetName.executor": "Run",
+    "JUnit.BankTest.testOpenAccount.executor": "Run",
+    "JUnit.BankTest.testTimedPayment.executor": "Run",
+    "JUnit.BankTest.testTransfer.executor": "Run",
+    "JUnit.BankTest.testWithdraw.executor": "Run",
+    "JUnit.CurrencyTest.executor": "Run",
+    "JUnit.CurrencyTest.testValueInThisCurrency.executor": "Run",
+    "JUnit.FibonacciTest.executor": "Run",
+    "JUnit.FibonacciTest.testFib.executor": "Run",
+    "JUnit.LineTest.executor": "Run",
+    "JUnit.MoneyTest.executor": "Run",
+    "JUnit.MoneyTest.testAdd.executor": "Run",
+    "JUnit.MoneyTest.testEqualsMoney.executor": "Run",
+    "JUnit.MoneyTest.testGetAmount.executor": "Run",
+    "JUnit.MoneyTest.testGetCurrency.executor": "Run",
+    "JUnit.MoneyTest.testGlobalValue.executor": "Run",
+    "JUnit.MoneyTest.testNegate.executor": "Run",
+    "JUnit.MoneyTest.testSub.executor": "Run",
+    "JUnit.MoneyTest.testToString.executor": "Run",
+    "JUnit.PointTest.executor": "Run",
+    "JUnit.PointTest.testAdd.executor": "Run",
+    "JUnit.PointTest.testSub.executor": "Run",
+    "JUnit.QuadrilateralTest.executor": "Run",
+    "JUnit.QuadrilateralTest.testSquare.executor": "Run",
+    "JUnit.Vector2DTest.executor": "Run",
+    "JUnit.Vector2DTest.testOrthogonality.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ttt.vvv" />
+      <recent name="ttt.bbb" />
+      <recent name="ttt" />
+      <recent name="" />
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BYT task 7-8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT task 7-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.b_Money" />
+      <option name="MAIN_CLASS_NAME" value="test.b_Money.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.testTimedPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT task 7-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.b_Money" />
+      <option name="MAIN_CLASS_NAME" value="test.b_Money.AccountTest" />
+      <option name="METHOD_NAME" value="testTimedPayment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testTimedPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT task 7-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.b_Money" />
+      <option name="MAIN_CLASS_NAME" value="test.b_Money.BankTest" />
+      <option name="METHOD_NAME" value="testTimedPayment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT task 7-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.b_Money" />
+      <option name="MAIN_CLASS_NAME" value="test.b_Money.BankTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AccountTest.testTimedPayment" />
+        <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="JUnit.BankTest.testTimedPayment" />
+        <item itemvalue="JUnit.BankTest.testTransfer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e3e115-67c0-4c48-9448-7fc055fb8317" name="Changes" comment="" />
+      <created>1703513409198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703513409198</updated>
+      <workItem from="1703513410258" duration="2260000" />
+      <workItem from="1703527318616" duration="6782000" />
+    </task>
+    <task id="LOCAL-00001" summary="finished">
+      <option name="closed" value="true" />
+      <created>1703536440640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703536440640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finished">
+      <option name="closed" value="true" />
+      <created>1703536448808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703536448808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+  </component>
+</project>
